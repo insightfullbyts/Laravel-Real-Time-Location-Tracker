@@ -1,3 +1,13 @@
+Run This Project follow below instructions
+
+To get the map working live:
+
+Open a terminal and run php artisan reverb:start
+Open another terminal and run php artisan queue:work
+Open a third terminal and run php artisan serve
+Visit http://localhost:8000 in your browser
+Allow location access when prompted
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
